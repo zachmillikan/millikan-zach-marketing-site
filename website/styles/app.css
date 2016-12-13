@@ -1,0 +1,175 @@
+@font-face {
+  font-family: Antonio-Bold;
+  src: "font/Antonio-Bold.ttf"
+}
+
+@font-face {
+  font-family: Antonio-Regular;
+  src: "font/Antonio-Regular.ttf"
+}
+
+.image-1 {
+  width: 40%;
+  margin-top: 10%;
+}
+
+.first-text {
+  margin-top: 15%;
+}
+
+.text-two {
+  margin-top: 15%;
+}
+
+.text-three {
+  margin-top: 250px;
+}
+
+.text-four {
+  margin-top: -15px;
+}
+
+.download-now {
+  margin-top: 275px;
+}
+
+.circle-1 {
+	border-radius: 100%;
+  background-color: rgb(242, 65, 65);
+  margin: 0;
+  padding: 100px;
+  height: 250px;
+  width: 250px;
+  padding: 50px;
+  margin-left: 21%;
+  margin-top:12%;
+  color:white;
+}
+
+.circle-2 {
+  border-radius: 100%;
+  background-color: rgb(242, 65, 65);
+  margin: 0;
+  padding: 100px;
+  height: 350px;
+  width: 350px;
+  padding: 100px;
+  margin-left: 51%;
+  margin-top:-18%;
+  color:white;
+}
+
+.circle-3 {
+  border-radius: 100%;
+  background-color: rgb(242, 65, 65);
+  margin: 0;
+  padding: 100px;
+  height: 250px;
+  width: 250px;
+  padding: 50px;
+  margin-left: 29%;
+  margin-top:-4%;
+  color:white;
+}
+
+.circle-4 {
+  border-radius: 100%;
+  background-color: rgb(242, 65, 65);
+  margin: 0;
+  padding: 50px;
+  height: 250px;
+  width: 250px;
+  padding: 50px;
+  margin-left: 27%;
+  color:white;
+}
+
+.circle-5 {
+  border-radius: 100%;
+  background-color: rgb(242, 65, 65);
+  margin-top: -200px;
+  padding: 50px;
+  height: 250px;
+  width: 250px;
+  padding: 50px;
+  margin-left: 0%;
+  color:white;
+}
+
+
+.top-screen {
+  height:750px;
+  background-color: rgb(242, 65, 65);
+  border-width:5px;
+  color: white;
+  padding-left: 5%;
+}
+
+/*.second-screen {
+  margin-top: 30%;
+  height:500px;
+}*/
+
+.third-screen {
+  margin-top: 25%;
+  height:850px;
+}
+
+.last-screen {
+  height:850px;
+}
+
+#testimonials {
+  text-align: center;
+}
+
+.luke-image {
+  float:right;
+}
+
+.footer {
+  background-color: rgb(242, 65, 65);
+  height: 750px;
+  margin-top: 450px;
+  color: white;
+}
+
+.button-download {
+  background-color: white;
+  color: black;
+  width: 300px;
+}
+
+.img-3 {
+  border-radius: 100%;
+  margin: 0;
+  padding: 50px;
+  height: 275px;
+  padding: 50px;
+  margin-left: -45%;
+  margin-top: -40%;
+}
+
+.img-4 {
+  border-radius: 100%;
+  margin: 0;
+  padding: 50px;
+  height: 275px;
+  padding: 50px;
+  margin-left: -40%;
+  margin-top: -40%;
+}
+
+.testimony-2 {
+  margin-top: 200px;
+  margin-left: -300px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0%;
+}
+
+.navbar-brand {
+  color: white;
+}
